@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Wadudh Samdani🤗</h1>
-<h3 align="center">A Stubborn🤓 & Enthusiastic🙃 In-Progress😉 Full-Stack Developer👨🏻‍💻.</h3>
+<h3 align="center">A Stubborn🤓, Enthusiastic🙃 & In-Progress😉 Full-Stack Developer👨🏻‍💻.</h3>
 
 - 🔭 I’m currently working on [Wyzebulb](https://www.wyzebulb.com/)
 
