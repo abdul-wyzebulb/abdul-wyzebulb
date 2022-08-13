@@ -34,7 +34,7 @@
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td align="center" rowspan="2"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-wyzebulb&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <td align="center" colspan="2"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-wyzebulb&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
     </tr>
     <tr>
     <!-- GitHub Top Language Card -->
