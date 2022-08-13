@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Wyzebulb](https://www.wyzebulb.com/)
 
-- 🌱 I’m currently learning **NextJs, React, Typescript, Automation, MongoDB, & ...**
+- 🌱 I’m currently learning & Working on **NextJs, React, Typescript, Automation, MongoDB, & ...**
 
 - 👨‍💻 All of my projects are available at [abdul-wyzebulb](abdul-wyzebulb)
 
-- 💬 Ask me about **React, JavaScript, CSS, HTML, Bootstrap, MongoDB, PostgreSQL.**
+- 💬 Ask me about  **React, JavaScript, CSS, HTML, Bootstrap, MongoDB, PostgreSQL & ( [Wyzebulb](https://www.wyzebulb.com/) )**
 
 - 📫 How to reach me **abdul.wadudh@wyzebulb.com**
 
