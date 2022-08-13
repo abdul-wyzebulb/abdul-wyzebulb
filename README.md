@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJs, React, Typescript, Automation, MongoDB, & ...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdul-wyzebulb](https://github.com/abdul-wyzebulb)
+- 👨‍💻 All of my projects are available at [abdul-wyzebulb](https://github.com/abdul-wyzebulb)
 
 - 💬 Ask me about **React, JavaScript, CSS, HTML, Bootstrap, MongoDB, PostgreSQL.**
 
